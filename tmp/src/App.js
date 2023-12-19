@@ -82,7 +82,7 @@ function App() {
         <div className="timelineItem">
           <h3>2012<br></br>|</h3>
           <p>
-          Using my fathers old Toshiba laptop, I started to make my own games on 
+          Using my father's old Toshiba laptop, I started to make my own games on 
           the Roblox game engine, my go to gaming platform as a child. 
           </p>
         </div>
@@ -109,8 +109,8 @@ function App() {
         <div className="timelineItem">
           <h3>2023<br></br>|</h3>
           <p>
-          Unfortunately owning a video game studio as a young adult isn't an easy as I thought 
-          to maintain, especially when being in college at the same time. I dropped my game studio, 
+          Unfortunately owning a video game studio as a young adult isn't as easy as I thought 
+          to maintain; especially when being in college at the same time. I dropped my game studio 
           and started a new company focusing on the implementation of extended reality applications.
           </p>
         </div>
@@ -118,9 +118,9 @@ function App() {
         <div className="timelineItem">
           <h3>FUTURE<br></br>|</h3>
           <p>
-          I plan to hone in on my leadership abilities, and pursue a Masters degree in Business 
-          Administration. My main goals for my future is to continue learning, and strive to be 
-          a leader, wherever I happen to be.
+          I plan to hone in on my leadership abilities and pursue a Masters degree in Business 
+          Administration. My main goals for my future is to continue learning and strive to be 
+          a leader wherever I happen to be.
           </p>
         </div>
       </section>
@@ -206,7 +206,7 @@ function App() {
             A web scraping solution to aid in converting Seattle University web pages into a 
             formatted word document. This aided in the web redesign process.
             <br></br><br></br>
-            Solo project, utilizing Azure cloud to store and retrieve converted pages.
+            Solo project utilizing Azure cloud to store and retrieve converted pages.
           </p>
         </div>
 
